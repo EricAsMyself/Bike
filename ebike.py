@@ -1,4 +1,3 @@
-from itertools import count
 from tkinter import *
 from random import randint
 from filelock import Timeout, FileLock
